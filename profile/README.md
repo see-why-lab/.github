@@ -154,9 +154,11 @@ graph LR
 
 [![IQ Dev Lab](https://img.shields.io/badge/IQ_Dev_Lab-github.com/iq--dev--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-dev-lab)
 [![IQ AI Lab](https://img.shields.io/badge/IQ_AI_Lab-github.com/iq--ai--lab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iq-ai-lab)
+[![YouTube](https://img.shields.io/badge/See_Why-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SeeWhy-l3n)
 
 *개발 기술의 구현 원리는 IQ Dev Lab에서,  
-AI의 수학적 증명은 IQ AI Lab에서 탐구합니다.*
+AI의 수학적 증명은 IQ AI Lab에서,  
+핵심 직관의 시각화는 YouTube에서 탐구합니다.*
 
 <br/>
 
